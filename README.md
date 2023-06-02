@@ -1,4 +1,4 @@
-## Secret-Link
+## Secure-Path
 
 <h1 align = 'center'> Ana Sayfa | Link Oluşturma </h1>
 <p>
